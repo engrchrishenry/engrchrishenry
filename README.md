@@ -1,133 +1,98 @@
+<div align="center">
+
 # Chris Henry
 
-🎓 **PhD Student — Computer Science**  
-University of Missouri–Kansas City (UMKC)  
-Multimedia Computing & Communication Lab  
+PhD Student • Computer Vision • Computational Imaging  
+University of Missouri–Kansas City (UMKC)
 
-Advisor: **Prof. Zhu Li**
+</div>
 
-My research focuses on **computer vision, computational imaging, and deep learning**, with applications in:
+---
+
+## About Me
+
+I am a PhD student working in the **Multimedia Computing & Communication Lab** at the **University of Missouri–Kansas City**, advised by **Prof. Zhu Li**.
+
+My research focuses on developing **efficient computer vision systems** that operate directly on unconventional sensor data.
+
+Current interests include:
 
 - Lensless imaging
 - Event-based vision
-- Video retrieval and localization
+- Video retrieval and deduplication
 - Privacy-preserving recognition
-- Remote sensing and InSAR processing
-
-I enjoy developing **reproducible research pipelines and open-source implementations** for computer vision systems.
+- Remote sensing / InSAR processing
 
 ---
 
-## Research Interests
-
-Computer Vision • Deep Learning • Event Cameras • Lensless Imaging • Video Retrieval • Remote Sensing
-
----
-
-## Selected Publications
-
-### Privacy-Preserving Face Recognition and Verification With Lensless Camera
-**IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025**
-
-Paper  
-https://ieeexplore.ieee.org/document/10793399
-
-Code  
-https://github.com/engrchrishenry/lensless_face_recognition
-
-Key contributions
-
-- Face recognition directly from **lensless sensor measurements**
-- **Multi-resolution DCT subband representation**
-- Privacy-preserving biometric recognition without image reconstruction
-
----
-
-### Fast Video Deduplication and Localization With Temporal Consistence Re-Ranking
-**IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024**
-
-Paper  
-https://ieeexplore.ieee.org/document/10577179
-
-Code  
-https://github.com/engrchrishenry/loc_aware_video_dedup
-
-Key contributions
-
-- Efficient **near-duplicate video retrieval**
-- Temporal-consistency-based localization
-- Evaluated on **FIVR-200K and VCSL datasets**
-
----
-
-### E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events
-**IEEE ICIP, 2024**
-
-Paper  
-https://doi.org/10.1109/ICIP51287.2024.10647465
-
-Code  
-https://github.com/engrchrishenry/E2SIFT
-
-Key contributions
-
-- Event-driven **LoG pyramid recovery**
-- Enables **SIFT keypoint detection on event cameras**
-- Efficient feature extraction from asynchronous events
-
----
-
-## Featured Repositories
+## Research Highlights
 
 ### Lensless Face Recognition
-Privacy-preserving face recognition directly from lensless measurements.
+Privacy-preserving biometric recognition directly from lensless sensor measurements.
 
+**Paper**  
+https://ieeexplore.ieee.org/document/10793399
+
+**Repository**  
 https://github.com/engrchrishenry/lensless_face_recognition
 
 ---
 
 ### Location-Aware Video Deduplication
-Temporal-consistency re-ranking for large-scale video deduplication.
+Temporal consistency re-ranking for large-scale video retrieval.
 
+**Paper**  
+https://ieeexplore.ieee.org/document/10577179
+
+**Repository**  
 https://github.com/engrchrishenry/loc_aware_video_dedup
 
 ---
 
 ### E2SIFT
-Event-based feature pyramid reconstruction for neuromorphic vision.
+Event-based feature pyramid reconstruction enabling SIFT keypoints on event cameras.
 
+**Paper**  
+https://doi.org/10.1109/ICIP51287.2024.10647465
+
+**Repository**  
 https://github.com/engrchrishenry/E2SIFT
 
 ---
 
-## Technical Skills
+## Research Areas
 
-**Programming**
-
-Python • MATLAB • C++ • CUDA
-
-**Libraries**
-
-PyTorch • NumPy • OpenCV • SciPy
-
-**Tools**
-
-Linux • Git • Docker • High Performance Computing
+Computer Vision  
+Computational Imaging  
+Event Cameras  
+Lensless Imaging  
+Video Retrieval  
+Remote Sensing
 
 ---
 
-## GitHub Statistics
+## Tools I Use
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engrchrishenry&layout=compact)
+Python • PyTorch • MATLAB • CUDA • OpenCV • NumPy • Linux
 
 ---
 
-## Academic Links
+## GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrchrishenry&layout=compact"/>
+</p>
+
+---
+
+## Links
 
 Google Scholar  
-(Add your scholar link)
+(Add scholar link)
 
 LinkedIn  
 (Add LinkedIn)
@@ -136,10 +101,13 @@ LinkedIn
 
 ## Contact
 
-Email  
 chffn@umsystem.edu  
 engr.chrishenry@gmail.com
 
 ---
 
-⭐ If you find my work useful, feel free to star the repositories.
+<div align="center">
+
+Thanks for visiting my profile.
+
+</div>
