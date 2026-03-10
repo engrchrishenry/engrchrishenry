@@ -1,108 +1,42 @@
-<div align="center">
+# Hello 👋, I'm Chris Henry
+### Phd Student | Graduate Research Assistant @ University of Missouri-Kansas City, USA
 
-# Chris Henry
+I am a PhD student working at the Multimedia Computing & Communication Lab with Prof. Zhu Li at the University of Missouri-Kansas City, USA.
 
-PhD Student • Computer Vision • Computational Imaging  
+## Contact Me
+<p><a href="http://www.linkedin.com/in/engrchrishenry/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://sites.google.com/view/chrishenry" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
-University of Missouri–Kansas City (UMKC)  
-Multimedia Computing & Communication Lab  
+## Skills
 
-Advisor: Zhu Li
-
-[Google Scholar](YOUR_SCHOLAR_LINK) • [Personal Website](https://sites.google.com/view/chrishenry)
-
-</div>
-
----
-
-## Research
-
-My research focuses on **computer vision and computational imaging**, with an emphasis on efficient learning directly from unconventional sensors.
-
-Current topics include:
-
-- Lensless imaging
-- Event-based vision
-- Video retrieval and localization
-- Privacy-preserving recognition
-- InSAR phase processing
-
----
-
-# Featured Research Projects
-
-<p align="center">
-
-<a href="https://github.com/engrchrishenry/lensless_face_recognition">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=engrchrishenry&repo=lensless_face_recognition">
-</a>
-
-<a href="https://github.com/engrchrishenry/loc_aware_video_dedup">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=engrchrishenry&repo=loc_aware_video_dedup">
-</a>
-
-<a href="https://github.com/engrchrishenry/E2SIFT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=engrchrishenry&repo=E2SIFT">
-</a>
-
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
 </p>
 
----
+## Projects
 
-# Publications
+### Privacy-Preserving Face Recognition and Verification with Lensless Camera
 
-### Privacy-Preserving Face Recognition and Verification With Lensless Camera  
-IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM)
-
-Paper  
-https://ieeexplore.ieee.org/document/10793399
-
-Code  
-https://github.com/engrchrishenry/lensless_face_recognition
+[View Project](https://github.com/engrchrishenry/lensless_face_recognition)
 
 ---
 
-### Fast Video Deduplication and Localization With Temporal Consistence Re-Ranking  
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+## GitHub Stats
 
-Paper  
-https://ieeexplore.ieee.org/document/10577179
+<img src="https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
 
-Code  
-https://github.com/engrchrishenry/loc_aware_video_dedup
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrchrishenry&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=engrchrishenry&theme=null" alt="GitHub Streak" />
 
-### E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events  
-IEEE ICIP
+<img src="https://profile-counter.glitch.me/engrchrishenry/count.svg?" alt="visitors count" />
 
-Paper  
-https://doi.org/10.1109/ICIP51287.2024.10647465
+## GitHub Activity Graph
 
-Code  
-https://github.com/engrchrishenry/E2SIFT
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=engrchrishenry&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrchrishenry&layout=compact">
-
-</p>
-
----
-
-# Technical Stack
-
-Python • PyTorch • MATLAB • CUDA • OpenCV • NumPy • Linux
-
----
-
-# Contact
-
-Email  
-chffn@umsystem.edu  
