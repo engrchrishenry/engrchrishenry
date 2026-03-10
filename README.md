@@ -1,95 +1,145 @@
-# Hi, I'm Chris Henry 👋
+# Chris Henry
 
-🎓 PhD Student in Computer Science  
-📍 University of Missouri–Kansas City (UMKC)  
-🔬 Multimedia Computing & Communication Lab  
-👨‍🏫 Advisor: Prof. Zhu Li  
+🎓 **PhD Student — Computer Science**  
+University of Missouri–Kansas City (UMKC)  
+Multimedia Computing & Communication Lab  
 
-My research focuses on **computer vision, image processing, and deep learning**, with applications in:
+Advisor: **Prof. Zhu Li**
 
-- Event-based vision
+My research focuses on **computer vision, computational imaging, and deep learning**, with applications in:
+
 - Lensless imaging
-- Video retrieval and deduplication
+- Event-based vision
+- Video retrieval and localization
 - Privacy-preserving recognition
-- InSAR phase processing
+- Remote sensing and InSAR processing
 
-I enjoy building **reproducible research code and datasets** that help advance practical machine learning systems.
+I enjoy developing **reproducible research pipelines and open-source implementations** for computer vision systems.
 
 ---
 
-# 📚 Selected Publications
+## Research Interests
 
-## Privacy-Preserving Face Recognition with Lensless Cameras  
-**IEEE TBIOM 2024**
+Computer Vision • Deep Learning • Event Cameras • Lensless Imaging • Video Retrieval • Remote Sensing
 
-Paper: https://ieeexplore.ieee.org/document/10793399  
-Code: https://github.com/engrchrishenry/lensless_face_recognition
+---
+
+## Selected Publications
+
+### Privacy-Preserving Face Recognition and Verification With Lensless Camera
+**IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025**
+
+Paper  
+https://ieeexplore.ieee.org/document/10793399
+
+Code  
+https://github.com/engrchrishenry/lensless_face_recognition
+
+Key contributions
 
 - Face recognition directly from **lensless sensor measurements**
-- Uses **Multi-resolution DCT Subband Representation**
-- Enables **privacy-preserving biometrics**
+- **Multi-resolution DCT subband representation**
+- Privacy-preserving biometric recognition without image reconstruction
 
 ---
 
-## Fast Video Deduplication and Localization With Temporal Consistence Re-Ranking  
-**IEEE TCSVT 2024**
+### Fast Video Deduplication and Localization With Temporal Consistence Re-Ranking
+**IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024**
 
-Paper: https://ieeexplore.ieee.org/document/10577179  
-Code: https://github.com/engrchrishenry/loc_aware_video_dedup
+Paper  
+https://ieeexplore.ieee.org/document/10577179
+
+Code  
+https://github.com/engrchrishenry/loc_aware_video_dedup
+
+Key contributions
 
 - Efficient **near-duplicate video retrieval**
-- Temporal consistency based localization
+- Temporal-consistency-based localization
 - Evaluated on **FIVR-200K and VCSL datasets**
 
 ---
 
-## E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events  
-**IEEE ICIP 2024**
+### E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events
+**IEEE ICIP, 2024**
 
-Paper: https://doi.org/10.1109/ICIP51287.2024.10647465  
-Code: https://github.com/engrchrishenry/E2SIFT
+Paper  
+https://doi.org/10.1109/ICIP51287.2024.10647465
 
-- Event-based vision pipeline
-- Recover LoG pyramid directly from events
-- Enable **SIFT keypoint detection on event cameras**
+Code  
+https://github.com/engrchrishenry/E2SIFT
 
----
+Key contributions
 
-# 🔬 Research Interests
-
-- Computer Vision
-- Deep Learning
-- Event Cameras
-- Lensless Imaging
-- Video Retrieval
-- Remote Sensing / InSAR
+- Event-driven **LoG pyramid recovery**
+- Enables **SIFT keypoint detection on event cameras**
+- Efficient feature extraction from asynchronous events
 
 ---
 
-# 🛠️ Tools & Technologies
+## Featured Repositories
 
-Python • PyTorch • MATLAB • CUDA • OpenCV • Linux
+### Lensless Face Recognition
+Privacy-preserving face recognition directly from lensless measurements.
 
----
-
-# 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true)
+https://github.com/engrchrishenry/lensless_face_recognition
 
 ---
 
-# 🌐 Links
+### Location-Aware Video Deduplication
+Temporal-consistency re-ranking for large-scale video deduplication.
 
-**Google Scholar**  
-(Add your Scholar link here)
+https://github.com/engrchrishenry/loc_aware_video_dedup
 
-**LinkedIn**  
-(Add your LinkedIn link here)
+---
 
-**Email**  
+### E2SIFT
+Event-based feature pyramid reconstruction for neuromorphic vision.
+
+https://github.com/engrchrishenry/E2SIFT
+
+---
+
+## Technical Skills
+
+**Programming**
+
+Python • MATLAB • C++ • CUDA
+
+**Libraries**
+
+PyTorch • NumPy • OpenCV • SciPy
+
+**Tools**
+
+Linux • Git • Docker • High Performance Computing
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engrchrishenry&layout=compact)
+
+---
+
+## Academic Links
+
+Google Scholar  
+(Add your scholar link)
+
+LinkedIn  
+(Add LinkedIn)
+
+---
+
+## Contact
+
+Email  
 chffn@umsystem.edu  
 engr.chrishenry@gmail.com
 
 ---
 
-⭐ Feel free to explore my repositories and reach out if you're interested in collaboration.
+⭐ If you find my work useful, feel free to star the repositories.
