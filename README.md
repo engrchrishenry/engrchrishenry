@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **engr.chrishenry@gmail.com chffn@umkc.edu**
 
-- 📄 Know about my experiences [https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en&authuser=1](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en&authuser=1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link](https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
