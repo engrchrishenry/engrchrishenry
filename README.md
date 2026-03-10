@@ -1,7 +1,9 @@
 # Hello 👋, I'm Chris Henry
 ### Phd Student | Graduate Research Assistant @ University of Missouri-Kansas City, USA
-
+<p><a href="http://www.linkedin.com/in/engrchrishenry/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://sites.google.com/view/chrishenry" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 I am a PhD student working at the Multimedia Computing & Communication Lab with Prof. Zhu Li at the University of Missouri-Kansas City, USA.
+
+During my free time, I love to play video games and watch memes.
 
 ## Contact Me
 <p><a href="http://www.linkedin.com/in/engrchrishenry/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://sites.google.com/view/chrishenry" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
