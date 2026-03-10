@@ -1,20 +1,95 @@
-<h1 align="center">Hi 👋, I'm Chris Henry</h1>
-<h3 align="center">PhD Student at the University of Missouri-Kansas City</h3>
+# Hi, I'm Chris Henry 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engrchrishenry&label=Profile%20views&color=0e75b6&style=flat" alt="engrchrishenry" /> </p>
+🎓 PhD Student in Computer Science  
+📍 University of Missouri–Kansas City (UMKC)  
+🔬 Multimedia Computing & Communication Lab  
+👨‍🏫 Advisor: Prof. Zhu Li  
 
-- 📫 How to reach me **engr.chrishenry@gmail.com chffn@umkc.edu**
+My research focuses on **computer vision, image processing, and deep learning**, with applications in:
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link](https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link)
+- Event-based vision
+- Lensless imaging
+- Video retrieval and deduplication
+- Privacy-preserving recognition
+- InSAR phase processing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/engrchrishenry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engrchrishenry" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/chris-henry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chris-henry" height="30" width="40" /></a>
-<a href="https://fb.com/engr.chrishenry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engr.chrishenry" height="30" width="40" /></a>
-</p>
+I enjoy building **reproducible research code and datasets** that help advance practical machine learning systems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engrchrishenry&show_icons=true&locale=en&layout=compact" alt="engrchrishenry" /></p>
+# 📚 Selected Publications
+
+## Privacy-Preserving Face Recognition with Lensless Cameras  
+**IEEE TBIOM 2024**
+
+Paper: https://ieeexplore.ieee.org/document/10793399  
+Code: https://github.com/engrchrishenry/lensless_face_recognition
+
+- Face recognition directly from **lensless sensor measurements**
+- Uses **Multi-resolution DCT Subband Representation**
+- Enables **privacy-preserving biometrics**
+
+---
+
+## Fast Video Deduplication and Localization With Temporal Consistence Re-Ranking  
+**IEEE TCSVT 2024**
+
+Paper: https://ieeexplore.ieee.org/document/10577179  
+Code: https://github.com/engrchrishenry/loc_aware_video_dedup
+
+- Efficient **near-duplicate video retrieval**
+- Temporal consistency based localization
+- Evaluated on **FIVR-200K and VCSL datasets**
+
+---
+
+## E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events  
+**IEEE ICIP 2024**
+
+Paper: https://doi.org/10.1109/ICIP51287.2024.10647465  
+Code: https://github.com/engrchrishenry/E2SIFT
+
+- Event-based vision pipeline
+- Recover LoG pyramid directly from events
+- Enable **SIFT keypoint detection on event cameras**
+
+---
+
+# 🔬 Research Interests
+
+- Computer Vision
+- Deep Learning
+- Event Cameras
+- Lensless Imaging
+- Video Retrieval
+- Remote Sensing / InSAR
+
+---
+
+# 🛠️ Tools & Technologies
+
+Python • PyTorch • MATLAB • CUDA • OpenCV • Linux
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true)
+
+---
+
+# 🌐 Links
+
+**Google Scholar**  
+(Add your Scholar link here)
+
+**LinkedIn**  
+(Add your LinkedIn link here)
+
+**Email**  
+chffn@umsystem.edu  
+engr.chrishenry@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and reach out if you're interested in collaboration.
