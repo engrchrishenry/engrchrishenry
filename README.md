@@ -13,13 +13,13 @@
 <img src="https://img.shields.io/badge/Personal%20Webpage-orange?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 <a href="https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white">
 </a>
 <a href="http://www.linkedin.com/in/engrchrishenry/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Curriculum Vitae-grey?style=flat-square">
+<img src="https://img.shields.io/badge/Curriculum Vitae-grey?style=for-the-badge">
 </a>
 </p>
 
