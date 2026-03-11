@@ -31,7 +31,8 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 
 ## Selected Publications
 
-**Privacy-Preserving Face Recognition and Verification with Lensless Camera**, *IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025*  
+**Privacy-Preserving Face Recognition and Verification with Lensless Camera**,
+*IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025*  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10793399)
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/lensless_face_recognition)
 
