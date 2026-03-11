@@ -80,6 +80,21 @@ er](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&l
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/engrchrishenry">
+    <img src="https://img.shields.io/github/followers/engrchrishenry?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>&nbsp;
+  <a href="https://github.com/engrchrishenry?tab=repositories">
+    <img src="https://img.shields.io/github/repo-size/engrchrishenry/lensless_face_recognition?style=for-the-badge&logo=github" alt="Repo Size"/>
+  </a>&nbsp;
+  <a href="https://github.com/engrchrishenry?tab=repositories">
+    <img src="https://img.shields.io/github/stars/engrchrishenry/lensless_face_recognition?style=for-the-badge&logo=github" alt="Stars"/>
+  </a>&nbsp;
+  <a href="https://github.com/engrchrishenry?tab=activity">
+    <img src="https://img.shields.io/github/commit-activity/m/engrchrishenry?style=for-the-badge&logo=github" alt="Commit Activity"/>
+  </a>
+</p>
+
 ---
 
 ## GitHub Stats
