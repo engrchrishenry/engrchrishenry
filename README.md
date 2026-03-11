@@ -13,26 +13,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/engrchrishenry/)
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-%23808080?style=for-the-badge)](https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link)
 
-<!-- Profile Views -->
-
+<!-- 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Repos-16-blue?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos" />
-</p>
-
-<p align="center">
-
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views" />&nbsp;
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true&theme=blue" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrchrishenry&layout=compact&theme=blue" alt="Top Languages" />
-</p>
+</p> -->
 
 <div align="justify">
 
@@ -100,38 +84,4 @@ er](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&l
 [![Overleaf](https://img.shields.io/badge/Overleaf-40E0D0?style=for-the-badge&logo=overleaf&logoColor=white)]()
 
 </div>
-
-<p align="center">
-  <a href="https://github.com/engrchrishenry">
-    <img src="https://img.shields.io/github/followers/engrchrishenry?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>&nbsp;
-  <a href="https://github.com/engrchrishenry?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/engrchrishenry/lensless_face_recognition?style=for-the-badge&logo=github" alt="Repo Size"/>
-  </a>&nbsp;
-  <a href="https://github.com/engrchrishenry?tab=repositories">
-    <img src="https://img.shields.io/github/stars/engrchrishenry/lensless_face_recognition?style=for-the-badge&logo=github" alt="Stars"/>
-  </a>&nbsp;
-  <a href="https://github.com/engrchrishenry?tab=activity">
-    <img src="https://img.shields.io/github/commit-activity/m/engrchrishenry?style=for-the-badge&logo=github" alt="Commit Activity"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views"/>
-</p>
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrchrishenry&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=engrchrishenry&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/engrchrishenry/count.svg?" alt="visitors count" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=engrchrishenry&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
