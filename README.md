@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hello 👋, I'm Chris Henry
-#### Phd Student @ University of Missouri-Kansas City, USA
+### Phd Student @ University of Missouri-Kansas City, USA
 
 <div>
 
