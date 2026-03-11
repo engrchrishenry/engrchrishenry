@@ -37,26 +37,26 @@ In my free time, I enjoy video games and memes.
 ## Skills & Tools
 
 **Programming Languages:**  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=matlab&logoColor=white)]()  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)]()  
 **Deep Learning / Computer Vision:**  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)]()
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)]()  
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()  
 **Data & Visualization:**  
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)]()
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)]()  
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)]()
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)]()  
 **Dev & Environment:**  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)]()
-[![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)]()
-[![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]()  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
+[![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()  
 **Academic:**  
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)]()
-[![Overleaf](https://img.shields.io/badge/Overleaf-40E0D0?style=flat-square&logo=overleaf&logoColor=white)]()
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
+[![Overleaf](https://img.shields.io/badge/Overleaf-40E0D0?style=for-the-badge&logo=overleaf&logoColor=white)]()
 
 
 
@@ -69,27 +69,27 @@ In my free time, I enjoy video games and memes.
 ## Selected Publications
 
 **Privacy-Preserving Face Recognition and Verification with Lensless Camera**, *IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025*  
-[![Paper](https://img.shields.io/badge/Paper-%23006699?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10793399) 
-[![Code](https://img.shields.io/badge/Code-%234CAF50?style=flat-square&logo=github&logoColor=white)](https://github.com/engrchrishenry/lensless_face_recognition)
+[![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10793399) 
+[![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/lensless_face_recognition)
 
 **Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking**, *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024*  
-[![Paper](https://img.shields.io/badge/Paper-%23006699?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/TCSVT.2024.3420422) 
-[![Code](https://img.shields.io/badge/Code-%234CAF50?style=flat-square&logo=github&logoColor=white)](https://github.com/engrchrishenry/loc_aware_video_dedup)
+[![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/TCSVT.2024.3420422) 
+[![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/loc_aware_video_dedup)
 
 **E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events**, *IEEE International Conference in Image Processing (ICIP), 2024*  
-[![Paper](https://img.shields.io/badge/Paper-%23006699?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICIP51287.2024.10647465) 
-[![Code](https://img.shields.io/badge/Code-%234CAF50?style=flat-square&logo=github&logoColor=white)](https://github.com/engrchrishenry/E2SIFT.git)
+[![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICIP51287.2024.10647465) 
+[![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/E2SIFT.git)
 
 **Privacy Preserving Face Recognition with Lensless Camera**, *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*  
-[![Paper](https://img.shields.io/badge/Paper-%23006699?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICASSP49357.2023.10096627) 
-[![Slides](https://img.shields.io/badge/Slides-%234CAF50?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18eXd-yd_0S7QW8qFIltttBgfgSq0Ew75/view?usp=sharing)
-[![Video](https://img.shields.io/badge/Video-%234CAF50?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1X03Syo23JIpaii6HO8TX_EX9L9eTfb8s/view?usp=sharing)
+[![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICASSP49357.2023.10096627) 
+[![Slides](https://img.shields.io/badge/Slides-%234CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18eXd-yd_0S7QW8qFIltttBgfgSq0Ew75/view?usp=sharing)
+[![Video](https://img.shields.io/badge/Video-%234CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1X03Syo23JIpaii6HO8TX_EX9L9eTfb8s/view?usp=sharing)
 
 **Lightweight Fisher Vector Transfer Learning for Video Deduplication**, *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*  
 [![Pap
-er](https://img.shields.io/badge/Paper-%23006699?style=flat-square&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICASSP49357.2023.10095417) 
-[![Slides](https://img.shields.io/badge/Slides-%234CAF50?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1g2mdJYPDVB9-1JVR7fC1-NFACI4BSGp_/view?usp=sharing)
-[![Video](https://img.shields.io/badge/Video-%234CAF50?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1X03Syo23JIpaii6HO8TX_EX9L9eTfb8s/view?usp=sharing)
+er](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICASSP49357.2023.10095417) 
+[![Slides](https://img.shields.io/badge/Slides-%234CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1g2mdJYPDVB9-1JVR7fC1-NFACI4BSGp_/view?usp=sharing)
+[![Video](https://img.shields.io/badge/Video-%234CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1X03Syo23JIpaii6HO8TX_EX9L9eTfb8s/view?usp=sharing)
 
 #### Full list of publication available on [Google Scholar](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en).
 
@@ -108,10 +108,10 @@ er](https://img.shields.io/badge/Paper-%23006699?style=flat-square&logo=ieee&log
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
 </p>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 
 ---
 
