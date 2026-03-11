@@ -36,7 +36,8 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10793399)
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/lensless_face_recognition)
 
-**Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking**, *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024*  
+**Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking**,  
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/TCSVT.2024.3420422)
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/loc_aware_video_dedup)
 
