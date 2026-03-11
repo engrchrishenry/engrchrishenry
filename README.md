@@ -10,7 +10,7 @@
 
 <p align="center">
 <a href="https://sites.google.com/view/chrishenry">
-<img src="https://img.shields.io/badge/Personal%20Webpage-orange?style=flat-square&logo=firefox&logoColor=white">
+<img src="https://img.shields.io/badge/Personal%20Webpage-orange?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
 <a href="https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white">
