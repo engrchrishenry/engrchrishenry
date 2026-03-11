@@ -1,7 +1,8 @@
 <div align="center">
 
-# Hello 👋, I'm Chris Henry
+## Hello 👋, I'm Chris Henry
 ### Phd Student @ University of Missouri-Kansas City, USA
+
 <div>
 
 <p align="center">
