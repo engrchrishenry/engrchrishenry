@@ -15,9 +15,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views" />&nbsp;
-  <a href="https://github.com/engrchrishenry?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/engrchrishenry?color=blue&style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true&title_color=blue&icon_color=blue&text_color=000000&bg_color=FFFFFF&include_all_commits=true" alt="GitHub Stats" />
+</p>
 </p>
 
 <div align="justify">
