@@ -8,6 +8,9 @@
 <strong>Email:</strong> engr.chrishenry@gmail.com • chffn@umkc.edu
 </p>
 
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views" />
+
 [![Personal Webpage](https://img.shields.io/badge/Personal%20Webpage-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://sites.google.com/view/chrishenry)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/engrchrishenry/)
