@@ -20,11 +20,8 @@
 
 <div align="justify">
 
-I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) at the [University of Missouri–Kansas City](https://www.umkc.edu/), working with Prof. Zhu Li. I was an Intern Research Scientist/Consultant at [AtomBeam Technologies](https://www.atombeamtech.com/) and a PhD Intern at the [Thales Group](https://www.thalesgroup.com/en)'s Digital Identity & Security division.
+I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) at the [University of Missouri–Kansas City](https://www.umkc.edu/), working with Prof. Zhu Li. I was an Intern Research Scientist/Consultant at [AtomBeam Technologies](https://www.atombeamtech.com/) and a PhD Intern at the [Thales Group](https://www.thalesgroup.com/en)'s Digital Identity & Security division. I hold an ME degree from [Gachon University](https://www.gachon.ac.kr/english/), South Korea, and a BE from [Hamdard University](https://www.hamdard.edu.pk/), Pakistan. At Gachon University, I worked as a research assistant at the [Pattern Recognition & Machine Learning Lab](http://pr.gachon.ac.kr/). My research interests include image processing, computer vision, and deep learning.
 
-I hold an ME degree from [Gachon University](https://www.gachon.ac.kr/english/), South Korea, and a BE from [Hamdard University](https://www.hamdard.edu.pk/), Pakistan. At Gachon University, I worked as a research assistant at the [Pattern Recognition & Machine Learning Lab](http://pr.gachon.ac.kr/). My research interests include image processing, computer vision, and deep learning.
-
-In my free time, I enjoy video games and memes.
 </div>
 
 <div align="left">
