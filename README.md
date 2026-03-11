@@ -41,7 +41,7 @@ In my free time, I enjoy video games and memes.
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/lensless_face_recognition)
 
 **Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking**, *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024*  
-[![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/TCSVT.2024.3420422) 
+[![Paper](https://img.shields.io/badge/Paper-%23006699?style=flat-squaree&logo=ieee&logoColor=white)](https://doi.org/10.1109/TCSVT.2024.3420422) 
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/loc_aware_video_dedup)
 
 **E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events**, *IEEE International Conference in Image Processing (ICIP), 2024*  
