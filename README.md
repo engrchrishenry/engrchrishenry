@@ -24,10 +24,6 @@
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views" />&nbsp;
-
-<!-- GitHub Stats (Total Repos, Stars, Commits) -->
-<img src="https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true&hide_title=true&theme=blue&hide_border=true&show_icons=true" alt="GitHub Stats" style="vertical-align: middle;" />
-
 </p>
 
 <p align="center">
