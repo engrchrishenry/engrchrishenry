@@ -51,7 +51,7 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 **Lightweight Fisher Vector Transfer Learning for Video Deduplication**, *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*  
 [![Pap
 er](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICASSP49357.2023.10095417)
-[![Slides](https://img.shields.io/badge/Slides-%234CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1g2mdJYPDVB9-1JVR7fC1-NFACI4BSGp_/view?usp=sharing)
+[![Slides](https://img.shields.io/badge/Slides-%234CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1iTzy-p_OwZbp18yoGlySCCGWuFiPaS0f/view?usp=sharing)
 [![Video](https://img.shields.io/badge/Video-%234CAF50?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1X03Syo23JIpaii6HO8TX_EX9L9eTfb8s/view?usp=sharing)
 
 #### Full list of publications available on [Google Scholar](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en).
