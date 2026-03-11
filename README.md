@@ -16,6 +16,8 @@
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views" />
 
+[![Repositories](https://img.shields.io/github/repo-count/engrchrishenry?color=blue&style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry?tab=repositories)
+
 <div align="justify">
 
 I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) at the [University of Missouri–Kansas City](https://www.umkc.edu/), working with Prof. Zhu Li. I was an Intern Research Scientist/Consultant at [AtomBeam Technologies](https://www.atombeamtech.com/) and a PhD Intern at the [Thales Group](https://www.thalesgroup.com/en)'s Digital Identity & Security division.
