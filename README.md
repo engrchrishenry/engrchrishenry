@@ -11,7 +11,7 @@
 
 [![Personal Webpage](https://img.shields.io/badge/Personal%20Webpage-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://sites.google.com/view/chrishenry)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en)
-[![Google Scholar Citations](https://scholarly-badges.vercel.app/api?user=VOm093YAAAAJ&citedby)](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en)
+[![Citations](https://scholarly-badges.vercel.app/api?user=VOm093YAAAAJ&citedby)](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/engrchrishenry/)
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-%23808080?style=for-the-badge)](https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link)
 
