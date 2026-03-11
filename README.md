@@ -1,12 +1,36 @@
+<div align="center">
+
 # Hello 👋, I'm Chris Henry
-### Phd Student | Graduate Research Assistant @ University of Missouri-Kansas City, USA
-<p><a href="http://www.linkedin.com/in/engrchrishenry/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://sites.google.com/view/chrishenry" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
-I am a PhD student working at the Multimedia Computing & Communication Lab with Prof. Zhu Li at the University of Missouri-Kansas City, USA.
+### Phd Student @ University of Missouri-Kansas City, USA
+<div>
 
-During my free time, I love to play video games and watch memes.
+<p align="center">
+<strong>Email:</strong> engr.chrishenry@gmail.com • chffn@umkc.edu
+</p>
 
-## Contact Me
-<p><a href="http://www.linkedin.com/in/engrchrishenry/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://sites.google.com/view/chrishenry" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+<p align="center">
+<a href="https://sites.google.com/view/chrishenry">
+<img src="https://img.shields.io/badge/Personal%20Webpage-orange?style=flat-square&logo=firefox&logoColor=white">
+</a>
+<a href="https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white">
+</a>
+<a href="http://www.linkedin.com/in/engrchrishenry/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<a href="https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link">
+<img src="https://img.shields.io/badge/Curriculum Vitae-grey?style=flat-square">
+</a>
+</p>
+
+<div align="justify">
+
+I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) at the [University of Missouri–Kansas City](https://www.umkc.edu/), working with Prof. Zhu Li. I was an Intern Research Scientist/Consultant at [AtomBeam Technologies](https://www.atombeamtech.com/) and a PhD Intern at the [Thales Group](https://www.thalesgroup.com/en)'s Digital Identity & Security division.
+
+I hold an ME degree from [Gachon University](https://www.gachon.ac.kr/english/), South Korea, and a BE from [Hamdard University](https://www.hamdard.edu.pk/), Pakistan. At Gachon University, I worked as a research assistant at the [Pattern Recognition & Machine Learning Lab](http://pr.gachon.ac.kr/). My research interests include image processing, computer vision, and deep learning.
+
+In my free time, I enjoy video games and memes.
+</div>
 
 ## Skills
 
