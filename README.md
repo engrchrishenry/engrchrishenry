@@ -30,6 +30,14 @@
 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true&theme=blue" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrchrishenry&layout=compact&theme=blue" alt="Top Languages" />
+</p>
+
 <div align="justify">
 
 I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.web.umkc.edu/lizhu/) at the [University of Missouri–Kansas City](https://www.umkc.edu/), working with Prof. Zhu Li. I was an Intern Research Scientist/Consultant at [AtomBeam Technologies](https://www.atombeamtech.com/) and a PhD Intern at the [Thales Group](https://www.thalesgroup.com/en)'s Digital Identity & Security division.
