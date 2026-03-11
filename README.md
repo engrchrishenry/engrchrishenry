@@ -13,11 +13,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/engrchrishenry/)
 [![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-%23808080?style=for-the-badge)](https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link)
 
+<!-- Profile Views -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views" />&nbsp;
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engrchrishenry&show_icons=true&count_private=true&title_color=blue&icon_color=blue&text_color=000000&bg_color=FFFFFF&include_all_commits=true" alt="GitHub Stats" />
-</p>
+    <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Repos-16-blue?style=for-the-badge&logo=github&logoColor=white" alt="Total Repos" />
 </p>
 
 <div align="justify">
