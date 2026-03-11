@@ -9,11 +9,10 @@
 <strong>Email:</strong> engr.chrishenry@gmail.com • chffn@umkc.edu
 </p>
 
-[![Personal Webpage](https://img.shields.io/badge/Personal%20Webpage-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/chrishenry)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/engrchrishenry/)
-[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-%23808080?logo=google-drive&style=for-the-badge)](https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link)
-
+[![Personal Webpage](https://img.shields.io/badge/Personal%20Webpage-orange?style=for-the-badge&logoColor=white)](https://sites.google.com/view/chrishenry)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logoColor=white)](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white)](http://www.linkedin.com/in/engrchrishenry/)
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum%20Vitae-%23808080?style=for-the-badge)](https://drive.google.com/file/d/14USaVeFkR3NWc-18y2QnbR_cgiqJnTvg/view?usp=drive_link)
 <!-- 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views" />&nbsp;
