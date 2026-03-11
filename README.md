@@ -32,6 +32,8 @@ I hold an ME degree from [Gachon University](https://www.gachon.ac.kr/english/),
 In my free time, I enjoy video games and memes.
 </div>
 
+<div align="left">
+
 ## Skills & Tools
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
