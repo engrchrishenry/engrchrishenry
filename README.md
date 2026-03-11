@@ -24,31 +24,6 @@ In my free time, I enjoy video games and memes.
 
 <div align="left">
 
-## Skills & Tools
-
-**Programming Languages:**  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)]()  
-**Libraries:**  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)]()
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)]()  
-**Dev & Environment:**  
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)]()
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
-[![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()  
-**Academic:**  
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
-[![Overleaf](https://img.shields.io/badge/Overleaf-40E0D0?style=for-the-badge&logo=overleaf&logoColor=white)]()
-
-</div>
-
 <div align="left">
 
 ## Selected Publications
@@ -80,6 +55,31 @@ er](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&l
 
 </div>
 
+## Skills & Tools
+
+**Programming Languages:**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=matlab&logoColor=white)]()  
+**Libraries:**  
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)]()
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)]()  
+**Dev & Environment:**  
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
+[![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)]()
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()  
+**Academic:**  
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
+[![Overleaf](https://img.shields.io/badge/Overleaf-40E0D0?style=for-the-badge&logo=overleaf&logoColor=white)]()
+
+</div>
+
 <p align="center">
   <a href="https://github.com/engrchrishenry">
     <img src="https://img.shields.io/github/followers/engrchrishenry?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
@@ -95,6 +95,9 @@ er](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logo=ieee&l
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engrchrishenry&color=blue&style=for-the-badge" alt="Profile Views"/>
+</p>
 ---
 
 ## GitHub Stats
