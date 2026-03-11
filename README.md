@@ -9,6 +9,8 @@
 <strong>Email:</strong> engr.chrishenry@gmail.com • chffn@umkc.edu
 </p>
 
+[![Google Scholar Citations](./citations.svg)](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en)
+
 [![Personal Webpage](https://img.shields.io/badge/Personal%20Webpage-orange?style=for-the-badge&logo=firefox&logoColor=white)](https://sites.google.com/view/chrishenry)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en)
 [![Citations](https://scholarly-badges.vercel.app/api?user=VOm093YAAAAJ&citedby)](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en)
