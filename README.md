@@ -49,8 +49,8 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white)](https://doi.org/10.1109/ICASSP49357.2023.10096627)
 [![Slides](https://img.shields.io/badge/Slides-%23F28C28?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18eXd-yd_0S7QW8qFIltttBgfgSq0Ew75/view?usp=sharing)
-[![Video](https://img.shields.io/badge/Video-%23E33E3E?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1g2mdJYPDVB9-1JVR7fC1-NFACI4BSGp_/view?usp=sharing)
 [![Poster](https://img.shields.io/badge/Poster-%236A5ACD?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1nPSXk6_kAhpPfbgxMwJoVeCqI2CDNe0F/view?usp=drive_link)
+[![Video](https://img.shields.io/badge/Video-%23E33E3E?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1g2mdJYPDVB9-1JVR7fC1-NFACI4BSGp_/view?usp=sharing)
 
 **Lightweight Fisher Vector Transfer Learning for Video Deduplication**  
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*  
