@@ -32,8 +32,8 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 
 <div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em;">
   <!-- Thumbnail -->
-  <div style="flex: 0 0 120px;"> <!-- Adjust width as needed -->
-    <img src="/figures/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" alt="Paper Thumbnail" style="width:20%; border-radius:5px;">
+  <div style="flex: 0 0 120px;"> <!-- fixed width -->
+    <img src="/figures/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" alt="Paper Thumbnail" style="width:100%; border-radius:5px;">
   </div>
 
   <!-- Paper info -->
