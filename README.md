@@ -59,7 +59,7 @@ er](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=w
 [![Slides](https://img.shields.io/badge/Slides-%23F28C28?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1iTzy-p_OwZbp18yoGlySCCGWuFiPaS0f/view?usp=sharing)
 [![Video](https://img.shields.io/badge/Video-%23E33E3E?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1X03Syo23JIpaii6HO8TX_EX9L9eTfb8s/view?usp=sharing)
 
-#### Full list of publications available on [Google Scholar](https://scholar.google.com/citations?user=VOm093YAAAAJ&hl=en).
+#### Full list of publications available on [here](https://engrchrishenry.github.io/publications).
 
 </div>
 
