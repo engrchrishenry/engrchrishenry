@@ -30,37 +30,11 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 
 ## Selected Publications
 
-<table>
-<tr>
-<td><img src="figures/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" width="150"></td>
-<td>
-<strong>Privacy-Preserving Face Recognition and Verification with Lensless Camera</strong><br>
-<strong>Chris Henry</strong>, M. Salman Asif, Zhu Li<br>
-<em>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025</em><br>
-<a href="https://ieeexplore.ieee.org/document/10793399"><img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white"></a>
-<a href="https://github.com/engrchrishenry/lensless_face_recognition"><img src="https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white"></a>
-</td>
-</tr>
-</table>
-
 **Privacy-Preserving Face Recognition and Verification with Lensless Camera**  
 <strong>Chris Henry</strong>, M. Salman Asif, Zhu Li  
 *IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025*  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white)](https://ieeexplore.ieee.org/document/10793399)
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/lensless_face_recognition)
-
-<table>
-<tr>
-<td><img src="figures/paper_thumbs/TCSVT_2024_dedup_thumb.png" width="150"></td>
-<td>
-<strong>Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking</strong><br>
-<strong>Chris Henry</strong>, Li Song, Zhu Li  
-<em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024</em><br>
-<a href="https://doi.org/10.1109/TCSVT.2024.3420422"><img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white"></a>
-<a href="https://github.com/engrchrishenry/loc_aware_video_dedup"><img src="https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white"></a>
-</td>
-</tr>
-</table>
 
 **Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking**  
 <strong>Chris Henry</strong>, Li Song, Zhu Li  
