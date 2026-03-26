@@ -30,6 +30,30 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 
 ## Selected Publications
 
+<div class="publication">
+  <div class="pub-image">
+    <img src="/images/paper_thumbs/TCSVT_2024_dedup_thumb.png" alt="Paper Thumbnail" class="pub-thumbnail">
+  </div>
+  <div style="flex: 1;">
+    <div style="display:block; background-color:#0066CC; color:white; font-size:0.68em; font-weight:bold; padding:0.15em 0.5em; border-radius:4px; margin-bottom:0.2em; width:fit-content;">
+      TCSVT'24
+    </div>
+    <strong>Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking</strong><br>
+    <span style="color:inherit; font-size:0.90em;">
+      <strong>Chris Henry</strong>, Li Song, Zhu Li
+    </span><br>
+    <em style="font-size:0.90em;">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024</em><br>
+    <div style="display: flex; gap: 0.5em;">
+      <a href="https://doi.org/10.1109/TCSVT.2024.3420422" target="_blank">
+        <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
+      </a>
+      <a href="https://github.com/engrchrishenry/loc_aware_video_dedup" target="_blank">
+        <img src="https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Code">
+      </a>
+    </div>
+  </div>
+</div>
+
 **Privacy-Preserving Face Recognition and Verification with Lensless Camera**  
 <strong>Chris Henry</strong>, M. Salman Asif, Zhu Li  
 *IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025*  
@@ -92,4 +116,47 @@ er](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=w
 [![Overleaf](https://img.shields.io/badge/Overleaf-40E0D0?style=for-the-badge&logo=overleaf&logoColor=white)]()
 
 </div>
+
+<style>
+.pub-thumbnail {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.pub-thumbnail:hover {
+  transform: scale(2.0);                   /* pop out more */
+  box-shadow: 0 12px 30px rgba(0,0,0,0.5); /* stronger shadow */
+  z-index: 10;                             /* appear above text */
+}
+
+.pub-image {
+  flex: 0 0 59%;
+  max-width: 200px;
+  min-width: 100px;
+  margin-right: 1em;
+}
+
+.publication {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.8em;
+  padding: 10px 15px;
+  border: 1px solid #ddd;       /* light gray border */
+  border-radius: 8px;           /* rounded corners */
+  background-color: #f9f9f9;    /* subtle background for clarity */
+  transition: transform 0.2s, box-shadow 0.2s;
+
+  font-size: 0.90em;            /* consistent with your previous font size */
+  line-height: 1.8em;           /* consistent with your previous line height */
+}
+
+.publication:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+</style>
 
