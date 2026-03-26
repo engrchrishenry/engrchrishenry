@@ -32,7 +32,7 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 
 <table>
 <tr>
-<td><img src="figures/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" width="120"></td>
+<td><img src="figures/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" width="150"></td>
 <td>
 <strong>Privacy-Preserving Face Recognition and Verification with Lensless Camera</strong><br>
 <strong>Chris Henry</strong>, M. Salman Asif, Zhu Li<br>
