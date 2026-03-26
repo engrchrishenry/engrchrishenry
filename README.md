@@ -30,27 +30,18 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 
 ## Selected Publications
 
-<div style="display: flex; align-items: flex-start; gap: 1em; margin-bottom: 1em;">
-  <!-- Thumbnail -->
-  <div style="flex: 0 0 120px;"> <!-- fixed width -->
-    <img src="/figures/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" alt="Paper Thumbnail" style="width:50%; border-radius:5px;">
-  </div>
-
-  <!-- Paper info -->
-  <div style="flex: 1;">
-    <strong>Privacy-Preserving Face Recognition and Verification with Lensless Camera</strong><br>
-    <span style="font-weight:bold;">Chris Henry</span>, M. Salman Asif, Zhu Li<br>
-    <em>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025</em><br>
-    <div style="display: flex; gap: 0.5em; margin-top:0.3em;">
-      <a href="https://ieeexplore.ieee.org/document/10793399" target="_blank">
-        <img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white" alt="Paper">
-      </a>
-      <a href="https://github.com/engrchrishenry/lensless_face_recognition" target="_blank">
-        <img src="https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Code">
-      </a>
-    </div>
-  </div>
-</div>  
+<table>
+<tr>
+<td><img src="figures/paper_thumbs/TBIOM_2024_lensless_thumb.jpg" width="120"></td>
+<td>
+<strong>Privacy-Preserving Face Recognition and Verification with Lensless Camera</strong><br>
+<strong>Chris Henry</strong>, M. Salman Asif, Zhu Li<br>
+<em>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025</em><br>
+<a href="https://ieeexplore.ieee.org/document/10793399"><img src="https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white"></a>
+<a href="https://github.com/engrchrishenry/lensless_face_recognition"><img src="https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white"></a>
+</td>
+</tr>
+</table>
 
 **Privacy-Preserving Face Recognition and Verification with Lensless Camera**  
 <strong>Chris Henry</strong>, M. Salman Asif, Zhu Li  
