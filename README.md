@@ -31,21 +31,25 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 ## Selected Publications
 
 **Privacy-Preserving Face Recognition and Verification with Lensless Camera**  
+<strong>Chris Henry</strong>, M. Salman Asif, Zhu Li  
 *IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM), 2025*  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white)](https://ieeexplore.ieee.org/document/10793399)
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/lensless_face_recognition)
 
 **Fast Video Deduplication and Localization with Temporal Consistence Re-Ranking**  
+<strong>Chris Henry</strong>, Li Song, Zhu Li  
 *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024*  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white)](https://doi.org/10.1109/TCSVT.2024.3420422)
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/loc_aware_video_dedup)
 
 **E2SIFT: Neuromorphic SIFT via Direct Feature Pyramid Recovery from Events**  
+<strong>Chris Henry</strong>, Paras Maharjan, Zhu Li, George York  
 *IEEE International Conference in Image Processing (ICIP), 2024*  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white)](https://doi.org/10.1109/ICIP51287.2024.10647465)
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/E2SIFT.git)
 
 **Privacy Preserving Face Recognition with Lensless Camera**  
+<strong>Chris Henry</strong>, M. Salman Asif, Zhu Li  
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white)](https://doi.org/10.1109/ICASSP49357.2023.10096627)
 [![Slides](https://img.shields.io/badge/Slides-%23F28C28?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18eXd-yd_0S7QW8qFIltttBgfgSq0Ew75/view?usp=sharing)
@@ -53,6 +57,7 @@ I’m a PhD student at the [Multimedia Computing & Communication Lab](http://l.w
 [![Video](https://img.shields.io/badge/Video-%23E33E3E?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1g2mdJYPDVB9-1JVR7fC1-NFACI4BSGp_/view?usp=sharing)
 
 **Lightweight Fisher Vector Transfer Learning for Video Deduplication**  
+<strong>Chris Henry</strong>, Rijun Liao, Ruiyuan Lin, Zhebin Zhang, Hongyu Sun, Zhu Li  
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023*  
 [![Pap
 er](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white)](https://doi.org/10.1109/ICASSP49357.2023.10095417)
