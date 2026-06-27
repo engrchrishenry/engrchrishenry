@@ -33,7 +33,7 @@ Previously, I worked as an Intern Research Scientist/Consultant at [AtomBeam Tec
 ## Selected Publications
 
 **E2Detect: Object Detection from Event Camera via Sparse Feature Pyramid Recovery**  
-<strong>Chris Henry</strong>, Paras Maharjan, Zhu Li, Aggelos K. Katsaggelos  
+<strong>Chris Henry</strong>, Zhu Li, Aggelos K. Katsaggelos  
 *IEEE International Symposium on Circuits and Systems (ISCAS), 2026*  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white)](https://ieeexplore.ieee.org/document/11562756)
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/E2Detect)
