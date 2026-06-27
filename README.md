@@ -37,6 +37,7 @@ Previously, I worked as an Intern Research Scientist/Consultant at [AtomBeam Tec
 *IEEE International Symposium on Circuits and Systems (ISCAS), 2026*  
 [![Paper](https://img.shields.io/badge/Paper-%23006699?style=for-the-badge&logoColor=white)](https://ieeexplore.ieee.org/document/11562756)
 [![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/engrchrishenry/E2Detect)
+[![Poster](https://img.shields.io/badge/Poster-%236A5ACD?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/15dxRSNR03XysqtmWco6DoU4UkEMwEG55/view?usp=sharing)
 
 **Privacy-Preserving Face Recognition and Verification with Lensless Camera**  
 <strong>Chris Henry</strong>, M. Salman Asif, Zhu Li  
